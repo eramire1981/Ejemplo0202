@@ -1,0 +1,97 @@
+body {
+    background-image: url(../img/fondo.jpg);
+    background-repeat : no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: rgb(1, 0, 5);  
+}
+h1 {color: black;
+    font-size: 65px;
+    text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000,
+    0 -18px 40px #F00, 24px 16px 15px rgba(15,24,206,0.43);
+
+}
+h2 {text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 
+        0 -18px 40px #F00, 16px 5px 9px rgba(15,31,206,0.74);
+    
+    }    
+p {color: black;
+   font-size: 22px;
+}
+.letra {
+   font-style: italic;
+   text-align: justify;
+   padding: 0px 99px 0px 99px;
+
+}
+section {
+    width: 760px;
+    float: left;
+}
+aside {width: 320px;
+      float: left;
+      padding: 123px;
+}
+footer {
+    clear: both;
+    color: black;
+    height: 80px;
+    
+}
+nav li {
+    list-style: none;
+    display: inline-block;
+    margin: 10px 20px 0px 20px;
+}
+a:hover {
+     color: red;
+     
+}
+header form {
+    float: right;
+    
+}
+form {
+    color: rgb(0, 0, 12);
+    background-image: url(../img/imagen1.jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.formulario1 { color: rgb(0, 0, 12);
+    background-image: url(../img/html1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.inicio {
+    background: none;
+}
+input,select,textarea {
+    border-radius: 35px 35px 35px 35px;
+}
+img {-webkit-box-shadow: 14px 16px 17px 2px rgba(116,240,255,0.99); 
+    box-shadow: 14px 16px 17px 2px rgba(116,240,255,0.99);
+    border-radius: 59px 59px 59px 59px;
+    -moz-border-radius: 59px 59px 59px 59px;
+    -webkit-border-radius: 59px 59px 59px 59px;
+    border: 0px solid #89bdf5;
+    
+}
+
+.blueTable {
+    border: 1px solid #891ca4;
+    background-color: #1c974b;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;}
+.tabla2 {
+    border: 1px solid #946a2f;
+    background-color: #4c7b2b;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
