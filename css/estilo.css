@@ -99,3 +99,27 @@ img {-webkit-box-shadow: 14px 16px 17px 2px rgba(116,240,255,0.99);
 .actualizacion{
     font-size: 2.5em;
 }
+
+.titulo-seccion{
+    font-family: "Yellowtail";
+    font-size: 1.5rem;
+}
+.sobremi{
+    background-color: #e6e6e6;
+    padding: 140px 0 100px 0;
+    text-align: center;
+}
+.sobremi .contenido-seccion{
+    max-width: 1000px;
+    margin: auto;
+    padding: 0 10px;
+}
+.sobremi .contenido-seccion h3{
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.sobremi .contenido-seccion .especial{
+    color: #940253;
+    font-weight: bold;
+    margin-top: 15px;
+}
